@@ -1,0 +1,11 @@
+$ProximaNova: ('Regular', 400),
+              ('Bold', 700),
+              ('ExtraBold', 800);
+
+@each $name, $weight in $ProximaNova {
+    @font-face {
+        font-family: 'ProximaNova';
+        src: url(../fonts/ProximaNova-#{$name}.ttf);
+        font-family: $weight;
+    }
+}
