@@ -1,6 +1,16 @@
-# vue-pizza
+# Vue Pizza
 
-This template should help get you started developing with Vue 3 in Vite.
+Vue Pizza is a pizza-themed project. The site is divided into components, has a number of dynamic elements. There is a routing, as well as a 404 page. In the process of development used advanced web development technologies.
+
+**Technologies/tools used:**
+
+  * VueJS 3
+  * CompositionAPI
+  * VueRouter
+  * Pinia
+  * Vite
+  * Vue-toastification
+  * SCSS
 
 ## Recommended IDE Setup
 
